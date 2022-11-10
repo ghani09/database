@@ -32,7 +32,7 @@
                             $userId = "GDA".$randomNumber."";
 
                             $createdDate = date('d-m-Y');
-
+                            
                             // connect database //CRUD //Create //Read //Update //Delete
                             $conn = mysqli_connect('localhost','root','','gda');
 
